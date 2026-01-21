@@ -51,3 +51,11 @@ Follow these steps to share your radar over the network:
    - **Line 10:** Change `const USE_LOCALHOST = 1;` to `const USE_LOCALHOST = 0;`
    - **Line 12:** Update `const PUBLIC_IP = "your ip";` with your actual IP address
 
+
+## Showcase
+
+
+https://github.com/user-attachments/assets/2e0e6965-546b-4257-b9fb-1083ce2b1e3c
+
+
+
