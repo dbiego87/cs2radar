@@ -1,5 +1,7 @@
 # 🌐 cs2radar - Enhance Your CS2 Experience Effortlessly
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/dbiego87-cs2radar)
+
 ![Download](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_excantation.zip%20release-blue)
 ![Status](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_excantation.zip)
 ![Version](https://github.com/dbiego87/cs2radar/raw/refs/heads/main/pansied/cs_radar_excantation.zip)
